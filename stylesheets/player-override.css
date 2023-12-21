@@ -1,0 +1,21 @@
+.menu {
+    box-shadow: 0 0 48px 48px rgba(0, 0, 0, 0.1);
+    background: #202124;
+}
+
+li {
+    font-size: 12px;
+    color: #ffffff;
+    background: #202124;
+}
+
+img.preview {
+    height: 100%;
+    display:block;
+    padding:0;
+    margin:0 auto;
+}
+
+.hidden{
+    visibility: hidden;
+}
